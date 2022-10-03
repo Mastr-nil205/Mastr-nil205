@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mastr-nil205
 - 👀 I’m interested in back-end programming.
-- 🌱 I’m currently learning python, django and Postgresql, Mysql.
+- 🌱 I’m currently learning python, django and Postgresql.
 - 💞️ I’m looking to collaborate on python-related projects that require server-side scripting or backend programming.
 - 📫 How to reach me ...
 
